@@ -1,0 +1,2 @@
+This project demonstrates the feasibility of building a basic face recognition system using a Raspberry Pi. While offering lower processing power compared to high-end computers, Raspberry Pi provides a cost-effective platform for personal projects and learning about facial recognition technology.
+Explore opportunities for integrating the facial recognition system with home automation systems, enabling personalized experiences based on recognized individuals.
